@@ -4,7 +4,8 @@
 ## Description
 The data were recorded by 3,109 native Italian speakers with authentic Italian accents. The recorded content covers a wide range of categories such as general purpose, interactive, in car commands, home commands, etc. The recorded text is designed by a language expert, and the text is manually proofread with high accuracy. Match mainstream Android, Apple system phones
 
-For more details, please refer to the link: https://bit.ly/3xUqkSZ
+For more details, please refer to the link: https://www.nexdata.ai/datasets/948?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
